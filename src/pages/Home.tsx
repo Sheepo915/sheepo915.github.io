@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import SplashScreen from "../component/SplashScreen";
 import TaskBar from "../component/TaskBar";
 import DesktopWallpaper from "../component/DesktopWallpaper";
