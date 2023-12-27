@@ -1,4 +1,3 @@
-import React from "react";
 import { useAppDispatch, useAppSelector } from "../features/hooks";
 import { switchTheme } from "../features/slices/themeSlice";
 

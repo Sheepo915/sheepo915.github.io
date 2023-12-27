@@ -1,5 +1,3 @@
-import React from "react";
-
 import pinkWallpaper from "../assets/desktopWallpaper/pinkWallpaper.webp";
 
 export default function DesktopWallpaper() {
